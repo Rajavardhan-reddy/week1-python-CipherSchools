@@ -1,7 +1,7 @@
 # to print the syntax is given below
-print("Hello World")
+print("World")
 #variables
-a = 100
+a = 10
 b = "hello"
 c = True
 print(type(a))

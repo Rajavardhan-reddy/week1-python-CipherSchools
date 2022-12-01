@@ -9,21 +9,21 @@
 
 a = True
 if True:
-    print("the value is true")
+    print(" true")
 print("end")
 
 if a:
-    print("this value is true")
+    print(" true")
 else:
-    print("this value is false")
+    print("false")
 
 b = 5
 if b==3:
-    print("this value is 3")
+    print(" 3")
 elif b==5:
-    print("this value is 5")
+    print("5")
 else:
-    print("this value is not 3 or 5")
+    print("not 3 or 5")
 
 # x: int(-inf,inf)
 # G -> x

@@ -4,9 +4,9 @@
 print(5+5)
 print(10/3)
 #if we add strings we get a concatinated string
-print("hello " + "world")
+print("kushi " + "reddy")
 #if we multiply a string with number we get those number of concatinated string
-print("hello"*5)
+print("kushi"*5)
 #comparission operators are used to compare two things
 print(1==2)
 print(1!=2)

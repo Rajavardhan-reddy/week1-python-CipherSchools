@@ -23,7 +23,7 @@
 7 6 6 6 6 6 7
 7 7 7 7 7 7 7
 '''
-b = 5
+b = 7
 for i in range(b):
     for j in range(b):
         print(i+1,end=" ")
@@ -54,7 +54,7 @@ for i in range(b):
         print(max(b-i,b-j),end=" ")
     print()
 print()
-a = 5
+a = 7
 for i in range(a):
     for j in range(a):
         print(max(i+1,  j+1, a-i, a-j),end=" ")

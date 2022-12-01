@@ -4,5 +4,5 @@ print(a)
 #the type of output of 'print' is a string
 print(type(a))
 #we can coustamize the output by using typecasting
-b = int(input()) # here it explicitsly take only ints
+b = float(input()) # here it explicitsly take only floats
 print(type(b))

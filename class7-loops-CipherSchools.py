@@ -9,7 +9,7 @@ while a < 10:
 
 # (ii) For loops
 
-name = "jatin"
+name = "kushi"
 print(name.__iter__)
 
 for c in name:
